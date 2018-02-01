@@ -20,6 +20,17 @@ This Repo currently has one directory called DEV, which will store all the devel
 > Repository List
 
 --
+## Table of Contents 
+
+- [Configuration Requirement](#Configuration Requirement)
+- [Hardware Requirement](#Hardware)
+- [OS Requirement](#OS)
+- [Code Editor Configuration](#Code Editor Configuration)
+- [FAQ](#FAQ)
+- [Procedure Steps for running projects](#Procedure Steps for running projects)
+- [License](#license)
+
+
 ## Contributing
 
 > All contributions / comments are welcome. 
@@ -31,24 +42,24 @@ This Repo currently has one directory called DEV, which will store all the devel
 > Requirments for running these code.
 
 ---
-## System Requirement:
+## Configuration Requirement
  
  The requirments for hardware / OS / and configurations below is meant to indicate what I use to to perform my coding and testing. Please feel free to "try" the codee on your systems and OS of choice.
  I will gladly assit in anyway I can to get this working your system configuration as well. My goal is to made all the code flexible and very portable
 
 ---
-## Hardware:
+### Hardware
 
 > System Config Info
 
 --- 
-## OS:
+### OS
 
 > Windows 10 Pro (1709)
 Fully Patched with all required updates.
 
 ---
-## Configuration:
+### Code Editor Configuration
 
 > Visual Studio 2017 Community Edition (Updated to current)
   - List out specific Config Details
@@ -63,28 +74,17 @@ Fully Patched with all required updates.
   - List out specific Config Details
  
 ---
-### Procedure Steps
+### Procedure Steps for running projects
 
 
 ---
-### Troubleshooting: 
+### Troubleshooting
 
 > Known Issues:
 
 > Unknown Issues:
 
 lol
-
----
-## Table of Contents 
-
-- [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Team](#team)
-- [FAQ](#faq)
-- [Support](#support)
-- [License](#license)
 
 ---
 ## FAQ
