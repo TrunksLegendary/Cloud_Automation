@@ -8,6 +8,7 @@
 ---
 ## YAML Development code
 
+## Overview
 - The YAML code found here is for education and training pourposes.
 
 > Motivation
@@ -22,10 +23,11 @@ This Repo currently has one directory called DEV, which will store all the devel
 --
 ## Table of Contents 
 
-- [Configuration Requirement](#config)
+- [Installation Instrucitons](#installation-instrucitons)
+- [Configuration](#config)
 - [Hardware](#hardware)
 - [OS](#os)
-- [Code Editor Configuration](#code)
+- [Code Editor Configuration](#code-editor-configuration)
 - [FAQ](#faq)
 - [Procedure Steps for running projects](#procedures)
 - [License](#license)
@@ -37,27 +39,39 @@ This Repo currently has one directory called DEV, which will store all the devel
 
 - Unless requested not to, I will reference you for your contribution here with my thanks.
 
+<h3>
+<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
+</h3>
 ---
 ## Installation Instrucitons
 > Requirments for running these code.
 
 ---
-## Configuration Requirement
+### Configuration Requirement
  
  The requirments for hardware / OS / and configurations below is meant to indicate what I use to to perform my coding and testing. Please feel free to "try" the codee on your systems and OS of choice.
  I will gladly assit in anyway I can to get this working your system configuration as well. My goal is to made all the code flexible and very portable
 
+<h3>
+<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
+</h3>
 ---
 ### Hardware
 
 > System Config Info
 
+<h3>
+<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
+</h3>
 --- 
 ### OS
 
 > Windows 10 Pro (1709)
 Fully Patched with all required updates.
 
+<h3>
+<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
+</h3>
 ---
 ### Code Editor Configuration
 
@@ -73,10 +87,15 @@ Fully Patched with all required updates.
 > Sublime Text 3 (Build 3143)
   - List out specific Config Details
  
+<h3>
+<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
+</h3>
 ---
 ### Procedure Steps for running projects
 
-
+<h3>
+<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
+</h3>
 ---
 ### Troubleshooting
 
@@ -86,11 +105,17 @@ Fully Patched with all required updates.
 
 lol
 
+<h3>
+<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
+</h3>
 ---
 ## FAQ
 
 - Documents will be posted as required.
 
+<h3>
+<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
+</h3>
 ---
 
 ## License
@@ -98,4 +123,4 @@ lol
 [![License](https://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">SentientWell</a>.
+- Copyright 2015 © <a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">SentientWell</a>
