@@ -22,12 +22,12 @@ This Repo currently has one directory called DEV, which will store all the devel
 --
 ## Table of Contents 
 
-- [Configuration Requirement](#Configuration Requirement)
-- [Hardware](#Hardware)
-- [OS](#OS)
-- [Code Editor Configuration](#Code Editor Configuration)
-- [FAQ](#FAQ)
-- [Procedure Steps for running projects](#Procedure Steps for running projects)
+- [Configuration Requirement](#configurationrequirement)
+- [Hardware](#hardware)
+- [OS](#os)
+- [Code Editor Configuration](#codeeditorconfiguration)
+- [FAQ](#faq)
+- [Procedure Steps for running projects](#procedurestepsforrunningprojects)
 - [License](#license)
 
 
