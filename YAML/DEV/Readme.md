@@ -21,17 +21,28 @@ This Repo currently has one directory called DEV, which will store all the devel
 > Repository List
 
 --
+###### Top
 ## Table of Contents 
 
-- [Installation Instrucitons](#installation-instrucitons)
-- [Configuration](#config)
-- [Hardware](#hardware)
-- [OS](#os)
-- [Code Editor Configuration](#code-editor-configuration)
+- [Introduction](#introduction)
+- [Contributing](#contributing)
+- [Setup and Configuration Requirement](#setup-and-configuration-requirement)
+  - [Configuration](#config)
+  - [Hardware](#hardware)
+  - [OS](#os)
+  - [Code Editor Configuration](#code-editor-configuration)
 - [FAQ](#faq)
 - [Procedure Steps for running projects](#procedures)
 - [License](#license)
 
+
+## Introduction
+
+
+
+[Top](#top)
+
+---
 
 ## Contributing
 
@@ -39,40 +50,41 @@ This Repo currently has one directory called DEV, which will store all the devel
 
 - Unless requested not to, I will reference you for your contribution here with my thanks.
 
-<h3>
-<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
-</h3>
----
-## Installation Instrucitons
-> Requirments for running these code.
+
+
+[Top](#top)
 
 ---
-### Configuration Requirement
+### Setup and Configuration Requirement
  
- The requirments for hardware / OS / and configurations below is meant to indicate what I use to to perform my coding and testing. Please feel free to "try" the codee on your systems and OS of choice.
- I will gladly assit in anyway I can to get this working your system configuration as well. My goal is to made all the code flexible and very portable
+ The requirments for hardware / OS / and configurations below is what I use to to perform my coding and testing. Please feel free to "try" the code on your systems and OS of choice.
 
-<h3>
-<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
-</h3>
+ I will gladly assit, in anyway I can, to help with getting this working your configuration as well. My goal is to made all the code flexible and very portable
+
+
+[Top](#top)
+
 ---
+
 ### Hardware
 
 > System Config Info
 
-<h3>
-<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
-</h3>
+<h4></h4>
+[Top](#top)
 --- 
+
 ### OS
 
 > Windows 10 Pro (1709)
-Fully Patched with all required updates.
 
-<h3>
-<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
-</h3>
+- Fully Patched with all required updates.
+
+
+<h4></h4>
+[Top](#top)
 ---
+
 ### Code Editor Configuration
 
 > Visual Studio 2017 Community Edition (Updated to current)
@@ -87,16 +99,18 @@ Fully Patched with all required updates.
 > Sublime Text 3 (Build 3143)
   - List out specific Config Details
  
-<h3>
-<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
-</h3>
+
+<h4></h4>
+[Top](#top)
 ---
+
 ### Procedure Steps for running projects
 
-<h3>
-<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
-</h3>
+
+<h4></h4>
+[Top](#top)
 ---
+
 ### Troubleshooting
 
 > Known Issues:
@@ -105,17 +119,18 @@ Fully Patched with all required updates.
 
 lol
 
-<h3>
-<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
-</h3>
+
+<h4></h4>
+[Top](#top)
 ---
+
 ## FAQ
 
 - Documents will be posted as required.
 
-<h3>
-<a href="https://github.com/TrunksLegendary/SentientWell" target="_blank">Back to TOC</a>
-</h3>
+
+<h4></h4>
+[Top](#top)
 ---
 
 ## License
