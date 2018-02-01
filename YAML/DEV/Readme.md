@@ -23,8 +23,8 @@ This Repo currently has one directory called DEV, which will store all the devel
 ## Table of Contents 
 
 - [Configuration Requirement](#Configuration Requirement)
-- [Hardware Requirement](#Hardware)
-- [OS Requirement](#OS)
+- [Hardware](#Hardware)
+- [OS](#OS)
 - [Code Editor Configuration](#Code Editor Configuration)
 - [FAQ](#FAQ)
 - [Procedure Steps for running projects](#Procedure Steps for running projects)
