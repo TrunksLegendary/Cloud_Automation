@@ -23,7 +23,8 @@ This Repo currently has one directory called DEV, which will store all the devel
 ## Contributing
 
 > All contributions / comments are welcome. 
-Unless requested not to, I will reference you for your contribution here with my thanks.
+
+- Unless requested not to, I will reference you for your contribution here with my thanks.
 
 ---
 ## Installation Instrucitons
