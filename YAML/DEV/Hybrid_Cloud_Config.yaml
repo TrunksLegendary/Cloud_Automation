@@ -7,9 +7,13 @@
 # disclosure restricted by GSA ADP Schedule Contract with IBM Corp.
 #
 # DOCUMENT: Hybrid Cloud YAML configuration file
-#
+# 
 # Source URL: https://www.ibm.com/support/knowledgecenter/SST55W_4.3.0/liaca/liaca_example_cloud_yaml.html 
 #
+# This Source Code is property of IBM and is being used here for training purposes
+# on local sandbox enviornement. 
+# Do not use this file found here in production environments
+# 
 # =================================================================
 
 # =================================================================
